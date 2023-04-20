@@ -1,8 +1,8 @@
-## Hello there
+## Hi there
 
-### I'm software architecture design and development, systems engineer.
+### I'm software architecture design(SAD) and development, systems engineer(SE).
 
-- Software Development
+- Software Engineer
 ```
 - Software architecture design and lifecycle management
 - System introduction and establishment ( ERP, CRM, SCM, MES, WMS, ... )
@@ -13,11 +13,11 @@
 
 - System Engineer
 ```
-- OS Managemet ( Windows, Linux ) & Shell Programming
-- Web Server ( IIS, Tomcat, Apache, ... )
-- DBMS ( Oracle, MSSQL, ... ) Handling ( DCL, DDL, DML ) & Database Programming
+- OS managemet ( Windows, Linux ) & Shell programming
+- Web server ( IIS, Tomcat, Apache, ... )
+- DBMS ( Oracle, MSSQL, ... ) Handling ( DCL, DDL, DML ) & Database programming
 - Active directory & LDAP configuration
-- Network Switch, Storage Management
+- Network switch, Storage management
 ```
 
 ### My activity stats
