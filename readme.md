@@ -16,7 +16,8 @@
 - OS Managemet ( Windows, Linux )
 - Web Server ( IIS, Tomcat, Apache, ... )
 - DBMS ( Oracle, MSSQL, ... ) Handling ( DCL, DDL, DML ), Database Programming
-- ActiveDirectory configuration
+- Active directory & LDAP configuration
+- Network Switch, Storage Management
 ```
 
 ### My activity stats
