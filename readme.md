@@ -13,9 +13,9 @@
 
 - System Engineer
 ```
-- OS Managemet ( Windows, Linux )
+- OS Managemet ( Windows, Linux ) & Shell Programming
 - Web Server ( IIS, Tomcat, Apache, ... )
-- DBMS ( Oracle, MSSQL, ... ) Handling ( DCL, DDL, DML ), Database Programming
+- DBMS ( Oracle, MSSQL, ... ) Handling ( DCL, DDL, DML ) & Database Programming
 - Active directory & LDAP configuration
 - Network Switch, Storage Management
 ```
