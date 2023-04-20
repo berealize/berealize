@@ -1,6 +1,6 @@
 ## Hi there
 
-### I'm software architecture design(SAD) and development, systems engineer(SE).
+### I'm software architecture design(SD) and development, systems engineer(SE).
 
 - Software Engineer
 ```
@@ -9,15 +9,16 @@
 - Microsoft .NET ( C#, VB, ASP.Net, ... )
 - Mobile Web/App ( XML, Javascrpt, HTML5, JQuery, Android Native, Java, Flutter, Dart, ... )
 - Python, AI, Bigdata analyze
+- ICT(Information and Communication Technology), MSA(Microservice architecture)
 ```
 
 - System Engineer
 ```
-- OS managemet ( Windows, Linux ) & Shell programming
+- OS managemet ( Windows, Linux ) & Shell programming, Docker, ...
 - Web server ( IIS, Tomcat, Apache, ... )
 - DBMS ( Oracle, MSSQL, ... ) Handling ( DCL, DDL, DML ) & Database programming
 - Active directory & LDAP configuration
-- Network switch, Storage management
+- Network switch configuration, Storage management
 ```
 
 ### My activity stats
