@@ -7,7 +7,7 @@
 - Software architecture design and lifecycle management
 - System introduction and establishment ( ERP, CRM, SCM, MES, WMS, ... )
 - Microsoft .NET ( C#, VB, ASP.Net, ... )
-- Android ( Native, Java, Flutter/Dart, ... )
+- Mobile Web/App ( XML, Javascrpt, HTML5, JQuery, Android Native, Java, Flutter, Dart, ... )
 - Python, AI, Bigdata analyze
 ```
 
@@ -15,7 +15,7 @@
 ```
 - OS Managemet ( Windows, Linux )
 - Web Server ( IIS, Tomcat, Apache, ... )
-- DBMS ( Oracle, MSSQL, ... )
+- DBMS ( Oracle, MSSQL, ... ) Handling ( DCL, DDL, DML ), Database Programming
 - ActiveDirectory configuration
 ```
 
